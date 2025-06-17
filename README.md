@@ -1,4 +1,4 @@
-Key Highlights of Your Project:
+Key Highlights of Project:
 🎯 What You'll Build:
 
 Neural Collaborative Filtering (NCF) system that learns complex user-book interactions
